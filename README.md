@@ -1,6 +1,6 @@
 # rpi-touch-ui
 
-A UI app that provides quick information and control of a Raspberry Pi with an LCD touch screen and no keyboard/mouse.
+A UI app that provides quick information and control of a Raspberry Pi with an LCD touch screen and no keyboard/mouse. I need this to determine my PI's adhoc assigned IP address
 
 ## Features
 - Show IP addresses of all network interfaces
