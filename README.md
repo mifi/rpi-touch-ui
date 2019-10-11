@@ -27,3 +27,5 @@ Can be started by `.xinitrc`:
 ## TODO
 
 Implement WIFI control using [node-wifi](https://github.com/friedrith/node-wifi)
+
+![](https://cdn-shop.adafruit.com/1200x900/2097-05.jpg)
