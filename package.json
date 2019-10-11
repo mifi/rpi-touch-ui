@@ -1,0 +1,17 @@
+{
+  "name": "rpi-touch-ui",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron .",
+    "watch-copy-rpi": "onchange './**' -- rsync -avz --delete --exclude node_modules ./ rpi3bplus:./rpi-touch-ui"
+  },
+  "dependencies": {
+    "electron": "^6.0.12",
+    "internal-ip": "^4.3.0"
+  },
+  "devDependencies": {
+    "onchange": "^6.1.0"
+  }
+}
